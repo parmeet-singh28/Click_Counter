@@ -1,0 +1,22 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    padding: 10%;
+}
+
+#count {
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+
+.btn {
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+}
